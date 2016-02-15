@@ -10,7 +10,7 @@
     "url": "https://github.com/ceejbot/dirac/issues"
   },
   "dependencies": {
-    "yargs": "~3.32.0"
+    "yargs": "~4.1.0"
   },
   "devDependencies": {
     "eslint": "~2.0.0",
